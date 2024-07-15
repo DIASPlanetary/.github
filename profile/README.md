@@ -1,5 +1,5 @@
 ## DIAS Planetary Magnetospheres Group :ringed_planet: :sunny: :earth_africa:
-We study Planetary Magnetospheres of the Solar System, and are based at DIAS Dunsink Observatory in Dublin, Ireland.
+We study Planetary Magnetospheres of the Solar System, and are based at [DIAS Dunsink Observatory](https://www.dunsink.dias.ie/) in Dublin, Ireland.
 You can find out more about us at our [homepage](https://www.dias.ie/cosmicphysics/astrophysics/astro-research/astro-planetary-magnetospheres/).
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/DIASAstronomy) @DIASAstronomy

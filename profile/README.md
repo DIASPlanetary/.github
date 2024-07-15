@@ -13,16 +13,16 @@ Led by:
 [Prof. Caitríona M. Jackman](https://github.com/caitrionajackman)
 
 Research Fellows: 
-[Dr Charles Bowers](https://github.com/bowersch3)
+[Dr Charles F. Bowers](https://github.com/bowersch3)
 [Dr Alexandra R. Fogg](https://github.com/arfogg)
-[Dr Mika Holmberg](https://www.dias.ie/2022/04/05/mika-holmberg/)
+[Dr Mika Holmberg](https://github.com/MikaKGH)
 [Dr Hans Huybrighs](https://github.com/HansHuybrighs)
 [Dr Matthew J. Rutala](https://github.com/mjrutala)
-[Dr Affelia Wibisono](https://github.com/AffeliaW)
+[Dr Affelia D. Wibisono](https://github.com/AffeliaW)
 [Dr Simon J. Walker](https://github.com/08walkersj)
 
 Research Students:
-[Seán C McEntee](https://github.com/SeanMcEntee)
+[Seán C. McEntee](https://github.com/SeanMcEntee)
 
 Visiting Research Students:
 [Yang Wang](https://github.com/iggwy)

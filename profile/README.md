@@ -15,8 +15,8 @@ Led by:
 Research Fellows: 
 [Dr Charles F. Bowers](https://github.com/bowersch3)
 [Dr Alexandra R. Fogg](https://github.com/arfogg)
-[Dr Mika Holmberg](https://github.com/MikaKGH)
-[Dr Hans Huybrighs](https://github.com/HansHuybrighs)
+[Dr Mika K. G. Holmberg](https://github.com/MikaKGH)
+[Dr Hans L. F. Huybrighs](https://github.com/HansHuybrighs)
 [Dr Matthew J. Rutala](https://github.com/mjrutala)
 [Dr Affelia D. Wibisono](https://github.com/AffeliaW)
 [Dr Simon J. Walker](https://github.com/08walkersj)

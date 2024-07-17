@@ -18,11 +18,12 @@ Research Fellows:
 [Dr Mika K. G. Holmberg](https://github.com/MikaKGH)
 [Dr Hans L. F. Huybrighs](https://github.com/HansHuybrighs)
 [Dr Matthew J. Rutala](https://github.com/mjrutala)
-[Dr Affelia D. Wibisono](https://github.com/AffeliaW)
 [Dr Simon J. Walker](https://github.com/08walkersj)
+[Dr Affelia D. Wibisono](https://github.com/AffeliaW)
 
 Research Students:
 [Seán C. McEntee](https://github.com/SeanMcEntee)
+[Daragh Hollman](https://github.com/daraghhollman)
 
 Visiting Research Students:
 [Yang Wang](https://github.com/iggwy)
@@ -30,3 +31,8 @@ Visiting Research Students:
 ### Languages :computer: :snake:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 IDL
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+MATLAB
+[![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff)](#)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)

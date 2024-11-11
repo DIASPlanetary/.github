@@ -20,13 +20,11 @@ Research Fellows:
 [Dr Matthew J. Rutala](https://github.com/mjrutala)
 [Dr Simon J. Walker](https://github.com/08walkersj)
 [Dr Affelia D. Wibisono](https://github.com/AffeliaW)
+[Dr Sebastián Cervantes](https://github.com/scervantes90)
 
 Research Students:
 [Seán C. McEntee](https://github.com/SeanMcEntee)
 [Daragh Hollman](https://github.com/daraghhollman)
-
-Visiting Research Students:
-[Yang Wang](https://github.com/iggwy)
 
 ### Languages :computer: :snake:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)

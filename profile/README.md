@@ -21,6 +21,7 @@ Research Fellows:
 [Dr Simon J. Walker](https://github.com/08walkersj)
 [Dr Affelia D. Wibisono](https://github.com/AffeliaW)
 [Dr Sebastián Cervantes](https://github.com/scervantes90)
+[Dr Xin Cao](https://github.com/tiger2017)
 
 Research Students:
 [Seán C. McEntee](https://github.com/SeanMcEntee)

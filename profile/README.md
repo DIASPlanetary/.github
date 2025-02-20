@@ -22,6 +22,7 @@ Research Fellows:
 [Dr Affelia D. Wibisono](https://github.com/AffeliaW)
 [Dr Sebastián Cervantes](https://github.com/scervantes90)
 [Dr Xin Cao](https://github.com/tiger2017)
+[Dr Serhii Ivanov](https://github.com/smivanov87)
 
 Research Students:
 [Seán C. McEntee](https://github.com/SeanMcEntee)

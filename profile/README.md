@@ -27,6 +27,7 @@ Research Fellows:
 Research Students:
 [Seán C. McEntee](https://github.com/SeanMcEntee)
 [Daragh Hollman](https://github.com/daraghhollman)
+[Maryam Zeroual](https://github.com/mz-18)
 
 ### Languages :computer: :snake:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
